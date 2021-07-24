@@ -1,0 +1,42 @@
+body {
+    background-color: black;
+    text-align: center;
+    font-family: 'Verdana';
+}
+
+.main-content a {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+.top-bottom-section h1 {
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+}
+
+.phone-section {
+    padding-top: 20px;
+}
+
+.middle-section {
+    padding-bottom: 20px;
+}
+
+.middle-section h2 {
+    color: white;
+    font-size: 42px;
+    font-weight: 300;
+}
+
+.middle-section h4 {
+    color: gray;
+    font-size: 21px;
+    font-weight: normal;
+}
+
+footer {
+    color: gray;
+    text-align: right;
+    font-size: 21px;
+}
